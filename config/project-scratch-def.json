@@ -1,5 +1,10 @@
 {
   "orgName": "my company",
   "edition": "Developer",
-  "features": []
+  "features": ["ContactsToMultipleAccounts", "HealthCloudUser"],
+  "settings": {
+    "orgPreferenceSettings": {
+    "s1DesktopEnabled": true
+   }
+  }
 }
